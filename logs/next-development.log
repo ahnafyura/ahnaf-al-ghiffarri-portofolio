@@ -1,0 +1,12 @@
+[00:01:08.605] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/ahnaf-al-ghiffarri-ahtasyafi/Documents/its/coding/portofolio/portfolio/app'
+[00:01:08.607] Server  ERROR   ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir '/home/ahnaf-al-ghiffarri-ahtasyafi/Documents/its/coding/portofolio/portfolio/app'
+[00:01:08.608] Server  ERROR   ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir '/home/ahnaf-al-ghiffarri-ahtasyafi/Documents/its/coding/portofolio/portfolio/app'
+[00:01:08.614] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/ahnaf-al-ghiffarri-ahtasyafi/Documents/its/coding/portofolio/portfolio/app'
+[00:01:08.616] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/ahnaf-al-ghiffarri-ahtasyafi/Documents/its/coding/portofolio/portfolio/app'
+[00:01:08.622] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/ahnaf-al-ghiffarri-ahtasyafi/Documents/its/coding/portofolio/portfolio/app'
+[00:01:08.624] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/ahnaf-al-ghiffarri-ahtasyafi/Documents/its/coding/portofolio/portfolio/app'
+[00:01:08.626] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/ahnaf-al-ghiffarri-ahtasyafi/Documents/its/coding/portofolio/portfolio/app'
+[00:01:08.627] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/ahnaf-al-ghiffarri-ahtasyafi/Documents/its/coding/portofolio/portfolio/app'
+[00:01:08.629] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/ahnaf-al-ghiffarri-ahtasyafi/Documents/its/coding/portofolio/portfolio/app'
+[00:01:08.630] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/ahnaf-al-ghiffarri-ahtasyafi/Documents/its/coding/portofolio/portfolio/app'
+[00:01:08.674] Server  LOG     ✓ Compiled in 42ms
